@@ -16,5 +16,5 @@
 
 module.exports = (robot) ->
 
-  robot.hear /いいね(?|？)$/i, (msg) ->
+  robot.hear /いいね(\?|？)$/i, (msg) ->
     msg.reply "ｱｯﾊｲ"
