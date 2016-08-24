@@ -1,0 +1,25 @@
+
+{
+  "name": "hubot-ninsatsu-ahhai",
+  "version": "1.0.0",
+  "description": "What an awesome package this is. Don't you think? - Ahhai.",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Drunkar/hubot-ninsatsu-ahhai"
+  },
+  "keywords": [
+    "hubot",
+    "joke"
+  ],
+  "author": "Drunkar",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "bugs": {
+    "url": "https://github.com/Drunkar/hubot-ninsatsu-ahhai/issues"
+  },
+  "homepage": "https://github.com/Drunkar/hubot-ninsatsu-ahhai"
+}
